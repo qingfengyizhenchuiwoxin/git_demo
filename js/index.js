@@ -9,3 +9,5 @@ function changeColor(data){
     }
 
 }
+function text(){
+}
